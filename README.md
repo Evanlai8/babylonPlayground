@@ -1,2 +1,15 @@
-# babylonPlayground
-play with babylon
+# babylon Playground project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
