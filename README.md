@@ -47,4 +47,5 @@ $ yarn start
 - [ ] Building with 9 floor
 - [ ] Elevator up and down
 - [ ] floor button in the Elevator
-- [ ] print button to the selected floor
+- [ ] press button make elevator to the selected floor
+- [ ] upstairs to walk up and down
