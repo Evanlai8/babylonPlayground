@@ -21,8 +21,8 @@ $ yarn start
 - [ ] 1. avatar actions
 - [ ] 2. do some task
 - [ ] 3. get reward when finish tasks
-- [ ] 4. open the door to the high level room (teleportor)
-- [ ] 5. go to another room through the teleportor
+- [ ] 4. open the door to the high level room (teleporter)
+- [ ] 5. go to another room through the teleporter
 
 ### Room2 - Character
 
